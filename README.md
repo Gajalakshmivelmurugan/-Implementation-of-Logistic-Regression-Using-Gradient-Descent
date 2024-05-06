@@ -107,21 +107,28 @@ Dataset
 ![328121477-f984ac01-16a6-4e16-a288-73215d99fa8a](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/9e420ae7-e00e-42b7-a307-7537dbaf65a2)
 
 Dataset.dtypes
+
 ![328121537-7f1ae4c4-7758-445e-beae-4ec8da4e05fa](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/36ba9b73-3fa8-4e12-b6f6-626f3a16714b)
 
 Dataset
+
 ![328121584-8233e8f6-653e-45e5-88f9-38684e127382](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/e7e9309f-83a4-436e-99b6-9843ead0b2ec)
 
 Y
+
 ![328121631-6e4e721a-00a2-429a-9d3f-b3f9c94be681](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/84a2fa68-86c5-4fcc-af7e-b63a88944015)
 
 Accuracy
+
 ![328121689-a6377038-645f-47b6-bf31-3c9e3774c3cb](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/214fa9f6-1c54-4aa9-8aee-8b1eeebd7c96)
 
 Y_pred
+
 ![328121750-3a586886-1a39-4927-9a07-690bf5b260e7](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/8cc5d0f6-5602-4d81-ab78-eaac8c0699be)
 
+
 Y
+
 ![328121812-25834f32-967d-434e-8064-b2f51fe183ea](https://github.com/Gajalakshmivelmurugan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144871940/e23111a0-e905-4767-8c0f-60bbe206b783)
 
 Y_prednew
